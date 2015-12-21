@@ -89,6 +89,8 @@ Several tools are available to view the data after it is transferred to storage.
 
 - Azure Diagnostics Manager by Cerebrata - [Azure Diagnostics Manager](http://www.cerebrata.com/Products/AzureDiagnosticsManager/Default.aspx) is a Windows (WPF) based client for managing Azure Diagnostics. It lets you view, download, and manage the diagnostics data collected by the applications running in Azure. To download the tool, see [Azure Diagnostics Manager](http://www.cerebrata.com/Products/AzureDiagnosticsManager/Default.aspx).
 
+- **Azure Storage Explorer (cross platform)** - Microsoft [Azure Storage Explorer](http://storageexplorer.com/) (Preview) is a standalone tool to easily work with your Azure Storage Accounts. This preview release enables you to easily work with Blob Storage: create and delete containers; upload, download, and delete blobs, and search across all your containers and your blobs. For developers and ops, there are more advanced issues to work with SAS keys and Policies. With the free Storage Explorer, you’re in full control of your assets. For more information, see [Azure Storage Explorer](http://storageexplorer.com/).
+
 ## Next Steps
 
 [Trace the flow in a Cloud Services application with Azure Diagnostics](cloud-services-dotnet-diagnostics-trace-flow.md)
